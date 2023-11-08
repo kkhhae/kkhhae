@@ -3,6 +3,10 @@
 
 <h6 align="center">🧑‍💻 Web Developer </h6>
 
+<div align="center">
+  <a href="https://kkhhae.notion.site/Haeoh-Kim-8d3a569bb3c94651aaac098a9ebd2522?pvs=4">포트폴리오</a>
+</div>
+
 <br />
 
 
