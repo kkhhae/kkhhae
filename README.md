@@ -40,7 +40,7 @@
 > - Back : Spring boot, Thymeleaf, Spring Security, Oracle, Mybatis
 > - Server : Local
 > 
-> [프로젝트 상세 설명](https://github.com/kkhhae/project_collectpop)
+> [프로젝트 COLLECTPOP](https://github.com/kkhhae/project_collectpop)
 > 
 
 ### 2. Where-Where
@@ -57,7 +57,7 @@
 > - Back : Spring boot, Spring Security, Oracle, Mybatis
 > - Server : Aws EC2
 > 
-> [프로젝트 상세 설명](https://github.com/kkhhae/where-where)
+> [프로젝트 WHERE_WHERE](https://github.com/kkhhae/where-where)
 
 <br/>
 
@@ -68,14 +68,12 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aws_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 <br />
@@ -84,7 +82,6 @@
 # 📞 Contact
 
 > - 이메일 : kho9666@naver.com
-> - 깃허브 : <a href="https://github.com/kkhhae">https://github.com/kkhhae</a>
 
 <br />
 <br />
