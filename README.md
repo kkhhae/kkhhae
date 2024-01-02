@@ -20,11 +20,11 @@
 
 # 🖥️ Project
 
-약 6개월간 진행했던 여러가지 프로젝트들 입니다!
+현재까지 진행한 여러가지 프로젝트들 입니다!
 
-팀프로젝트를 통해 운영적인 면과 ***업무 프로세스***, 개발 환경 등 많은 경험을 할 수 있었고,
+팀프로젝트를 통해 운영적인 면과 ***업무 프로세스와 , 개발 환경*** 등 많은 경험을 할 수 있었고,
 
-프로젝트 역할면에서는 ***전체적인 업무(프론트 뷰, 백 서비스, DB, 서버 등)*** 을 맡아 진행했습니다.
+프로젝트 역할면에서는 ***프론트 뷰 제작 및 백엔드 서비스 연결, DB관리 등*** 을 맡아 진행했습니다.
 
 ### 1. COLLECT POP
 
@@ -37,7 +37,7 @@
 > 환경
 > 
 > - Front : HTML, CSS, JavaScript, Jquery
-> - Back : Spring boot, Thymeleaf, Spring Security, Oracle, Mybatis
+> - Back : Spring, Spring Thymeleaf, Spring Security, Oracle, Mybatis ..
 > - Server : Local
 > 
 > [프로젝트 COLLECTPOP](https://github.com/kkhhae/project_collectpop)
@@ -54,7 +54,7 @@
 > 환경
 > 
 > - Front : React, JSX, CSS, JavaScript
-> - Back : Spring boot, Spring Security, Oracle, Mybatis
+> - Back : Spring boot, Oracle DB, Mybatis ..
 > - Server : Aws EC2
 > 
 > [프로젝트 WHERE_WHERE](https://github.com/kkhhae/where-where)
