@@ -58,8 +58,8 @@
 > - Back : Spring, Spring Boot, Spring Security, Oracle DB
 > - Server : Local
 > 
-> GITHUB : [COLLECTPOPS 프로젝트](https://github.com/kkhhae/project_collectpop) <br/>
-> SITE : [COLLECTPOPS 사이트](https://kkhhae.github.io/Collectpop/)
+> GITHUB : [COLLECTPOPS 프로젝트](https://github.com/kkhhae/project_collectpop) <br/>
+> SITE : [COLLECTPOPS 사이트](https://kkhhae.github.io/Collectpop/)
 
 ### 3. Where-Where
 
