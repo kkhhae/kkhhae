@@ -41,7 +41,7 @@
 > - Server : Local
 > 
 > GITHUB : [MnM 프로젝트](https://github.com/kkhhae/MnM) <br/>
-> SITE : [MnM 사이트](https://kkhhae.github.io/MnM/)
+> SITE : [MnM 사이트 - 메인페이지](https://kkhhae.github.io/MnM/)
 
 ### 2. COLLECTPOP
 
