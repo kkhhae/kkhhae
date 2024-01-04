@@ -40,7 +40,7 @@
 > - Back : Spring boot, Spring Thymeleaf, Oracle DB
 > - Server : Local
 > 
-> GITHUB : [MnM 프로젝트](https://github.com/kkhhae/MnM)
+> GITHUB : [MnM 프로젝트](https://github.com/kkhhae/MnM) <br/>
 > SITE : [MnM 사이트](https://kkhhae.github.io/MnM/)
 
 ### 2. COLLECTPOP
