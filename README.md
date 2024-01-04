@@ -25,35 +25,54 @@
 
 프로젝트 역할면에서는 ***프론트 뷰 제작 및 백엔드 서비스 연결, DB관리 등*** 을 맡아 진행했습니다.
 
-### 1. COLLECT POP
+### 1. M&M
+
+> 영화리뷰사이트 (팀 프로젝트)
+> 
+> - 개발기간 : 2023.08
+> - 개발인원 : 4인
+> - 목적 : 해당 지역에 대한 실시간 역정보 및 매체 제공 서비스
+> - 핵심 : 실시간 역 서비스 제공, 실시간 데이터 수집, Api 활용, 키워드 기능
+> 
+> 환경
+> 
+> - Front : JavaScript, Jquery, CSS, JSP & HTML, BootStrap
+> - Back : Spring boot, Spring Thymeleaf, Oracle DB
+> - Server : Local
+> 
+> [프로젝트 MnM](https://github.com/kkhhae/MnM)
+
+### 2. COLLECTPOP
 
 > 팝업스토어 페이지 (팀 프로젝트)
 > 
 > - 개발기간 : 2023.09 - 2023.10
+> - 개발인원 : 4인
 > - 목적 : 팝업스토어 페이지 관리 및 홍보, 커뮤니티
 > - 핵심 : 로그인, 회원가입, 관리자 회원관리, 스프링 시큐리티 등
 > 
 > 환경
 > 
 > - Front : HTML, CSS, JavaScript, Jquery
-> - Back : Spring, Spring Thymeleaf, Spring Security, Oracle, Mybatis ..
+> - Back : Spring, Spring Boot, Spring Security, Oracle DB
 > - Server : Local
 > 
 > [프로젝트 COLLECTPOP](https://github.com/kkhhae/project_collectpop)
 > 
 
-### 2. Where-Where
+### 3. Where-Where
 
 > 정보통합포털시스템 (개인 프로젝트)
 > 
 > - 개발기간 : 2023.10 - 2023.11
+> - 개발인원 : 1인
 > - 목적 : 해당 지역에 대한 실시간 역정보 및 매체 제공 서비스
 > - 핵심 : 실시간 역 서비스 제공, 실시간 데이터 수집, Api 활용, 키워드 기능
 > 
 > 환경
 > 
 > - Front : React, JSX, CSS, JavaScript
-> - Back : Spring boot, Oracle DB, Mybatis ..
+> - Back : Spring, Spring Boot, Oracle DB
 > - Server : Aws EC2
 > 
 > [프로젝트 WHERE_WHERE](https://github.com/kkhhae/where-where)
