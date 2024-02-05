@@ -76,7 +76,7 @@
 > - Back : Spring, Spring Boot, Oracle DB
 > - Server : Aws EC2
 > 
-> [프로젝트 WHERE_WHERE](https://github.com/kkhhae/where-where)
+> GITHUB : [프로젝트 WHERE_WHERE](https://github.com/kkhhae/where-where)
 
 ### 4. HEOLOGISTICS
 
