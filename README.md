@@ -80,7 +80,7 @@
 
 ### 4. HEOLOGISTICS
 
-> 거리비례배송시스템
+> 거리비례배송시스템 (개발중입니다.)
 > 
 > - 개발기간 : 2024.01 ~ ing
 > - 개발인원 : 개인
@@ -93,7 +93,7 @@
 > - Back : Spring, Spring Boot, Oracle DB
 > - Server : 
 > 
-> [프로젝트 HEOLOGISTICS]()
+> [개발중]()
 
 <br/>
 
