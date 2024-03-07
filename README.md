@@ -30,12 +30,13 @@
 > 영화리뷰사이트 (팀 프로젝트)
 > 
 > - 개발기간 : 2023.08
-> - 개발인원 : 4인
+> - 개발인원 : 4인 
 > - 목적 : 해당 지역에 대한 실시간 역정보 및 매체 제공 서비스
 > - 핵심 : 실시간 역 서비스 제공, 실시간 데이터 수집, Api 활용, 키워드 기능
 > 
 > 환경
 > 
+> - java 11
 > - Front : JavaScript, Jquery, CSS, JSP & HTML, BootStrap
 > - Back : Spring boot, Spring Thymeleaf, Oracle DB
 > 
@@ -52,7 +53,8 @@
 > - 핵심 : 로그인, 회원가입, 관리자 회원관리, 스프링 시큐리티 등
 > 
 > 환경
-> 
+>
+> - java 11
 > - Front : HTML, CSS, JavaScript, Jquery
 > - Back : Spring, Spring Boot, Spring Security, Oracle DB
 > 
@@ -69,7 +71,8 @@
 > - 핵심 : 실시간 역 서비스 제공, 실시간 데이터 수집, Api 활용, 키워드 기능
 > 
 > 환경
-> 
+>
+> - java 17, react 18
 > - Front : React, JSX, CSS, JavaScript
 > - Back : Spring, Spring Boot, Oracle DB
 > - Server : Aws EC2
@@ -86,11 +89,11 @@
 > - 핵심 : 지도서비스, 거리측정, 배차 선택
 > 
 > 환경
-> 
+>
+> - java 17
 > - Front : HTML, CSS, JavaScript
 > - Back : Spring, Spring Boot, Oracle DB
-> - Server : 
-> 
+>
 > GITHUB : [프로젝트 HEOLOGISTICS](https://github.com/kkhhae/HeoLogistics) <br/>
 > SITE :
 
